@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android-ParseSdk-Java</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">cUO6giP0gjXQ1bS6a8WbpxSnBylDucBjidekwoU5</string>
+    <string name="back4app_client_key">AY9NeNlSzfPGtPNOJtouPI4uYZr0jI3q5plGiMu8</string>
+
+</resources>
